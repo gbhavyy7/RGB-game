@@ -26,7 +26,6 @@ body {
 }
 
 h1 {
-	display: block;
 	background-color: steelblue;
 	line-height: 1.1;
 	padding: 20px 0;
@@ -35,9 +34,8 @@ h1 {
 	color: white;
 	margin: 0;
 	text-transform: uppercase;
+	display: block;
 }
-
-
 
 #stripe {
 	background: white;
